@@ -1,3 +1,16 @@
 apiVersion: v1
-entries: {}
-generated: "2024-05-31T09:53:20.133379753-05:00"
+entries:
+  ipfs-cluster:
+  - apiVersion: v2
+    created: "2024-05-31T09:57:29.938733151-05:00"
+    description: Run ipfs cluster along with kubo (go-ipfs)
+    digest: 663ae4d34c373d84fe379d561e1599cc30eda544d2ae45eb164cbc8123bc241c
+    maintainers:
+    - email: lucaspick@gmail.com
+      name: Lucas Pick
+    name: ipfs-cluster
+    type: application
+    urls:
+    - ipfs-cluster-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-05-31T09:57:29.937800065-05:00"
